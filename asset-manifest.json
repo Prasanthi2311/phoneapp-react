@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phoneapp-react/static/css/main.8aec984f.css",
+    "main.js": "/phoneapp-react/static/js/main.32ae3f56.js",
+    "static/js/787.c94d5924.chunk.js": "/phoneapp-react/static/js/787.c94d5924.chunk.js",
+    "index.html": "/phoneapp-react/index.html",
+    "main.8aec984f.css.map": "/phoneapp-react/static/css/main.8aec984f.css.map",
+    "main.32ae3f56.js.map": "/phoneapp-react/static/js/main.32ae3f56.js.map",
+    "787.c94d5924.chunk.js.map": "/phoneapp-react/static/js/787.c94d5924.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aec984f.css",
+    "static/js/main.32ae3f56.js"
+  ]
+}
